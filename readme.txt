@@ -1,0 +1,1 @@
+starter clearcove boostrap file
